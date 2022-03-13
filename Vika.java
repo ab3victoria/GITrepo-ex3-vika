@@ -5,5 +5,8 @@ public class Vika{
 		for (int i = 0 ; i <=5 ; i++){
 			System.out.println("My name is Vika");
 		}
+		
+		System.out.println("*******************");
+		
 	}
 }
