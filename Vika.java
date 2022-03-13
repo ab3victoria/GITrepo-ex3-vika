@@ -8,7 +8,7 @@ public class Vika{
 			System.out.println("My name is Vika");
 		}
 		
-		System.out.println("*******************");
+		
 		
 	}
 }
