@@ -9,6 +9,6 @@ public class Vika{
 		}
 		
 		
-		
+		System.out.println("*******************");
 	}
 }
